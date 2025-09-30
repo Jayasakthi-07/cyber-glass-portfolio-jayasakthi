@@ -154,8 +154,8 @@ npm run type-check   # TypeScript type checking
 
 **JAYASAKTHI DHARMARAJAN**
 - Portfolio: [Coming Soon]
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn]
+- Email: [jayasakthidharamarajan@gmail.com]
+- LinkedIn: [Innum Create pannala]
 - GitHub: [@Jayasakthi-07](https://github.com/Jayasakthi-07)
 
 ## 📄 License
